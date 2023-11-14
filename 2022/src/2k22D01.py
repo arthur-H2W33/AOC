@@ -1,6 +1,6 @@
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 
-IPTraw=open(path+'inputd1.txt').read().split("\n")
+IPTraw=open(path+'input2k22D1.txt').read().split("\n")
 IPT=IPTraw
 
 
