@@ -10,8 +10,8 @@ from collections import defaultdict
 from copy import deepcopy
 
 
-IPTraw=open(path+'inputd14.txt').read().split("\n")
-test=open(path+'inputd14ex.txt').read().split("\n")
+IPTraw=open(path+'D14.txt').read().split("\n")
+test=open(path+'D14ex.txt').read().split("\n")
 IPT=IPTraw
 
 listepaths=[ligne.split(' -> ') for ligne in IPT]
