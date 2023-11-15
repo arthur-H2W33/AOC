@@ -7,8 +7,8 @@ Created on Sat Dec  3 11:31:13 2022
 
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 
-IPTraw=open(path+'inputd12.txt').read().split("\n")
-test=open(path+'inputd12ex.txt').read().split("\n")
+IPTraw=open(path+'D12.txt').read().split("\n")
+test=open(path+'D12ex.txt').read().split("\n")
 IPT=IPTraw
 
 board={}
