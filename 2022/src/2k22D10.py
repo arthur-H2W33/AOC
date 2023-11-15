@@ -10,8 +10,8 @@ path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 import matplotlib.pyplot as plot
 
 
-IPTraw=open(path+'inputd10.txt').read().split("\n")
-test=open(path+'inputd10ex.txt').read().split("\n")
+IPTraw=open(path+'D10.txt').read().split("\n")
+test=open(path+'D10ex.txt').read().split("\n")
 test2='''noop
 addx 3
 addx -5'''.split('\n')
