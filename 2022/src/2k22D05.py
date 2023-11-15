@@ -8,8 +8,8 @@ Created on Sat Dec  3 10:55:19 2022
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 from textwrap import wrap
 
-IPTraw=open(path+'inputd5.txt').read().split("\n")
-test=open(path+'inputd5ex.txt').read().split("\n")
+IPTraw=open(path+'D5.txt').read().split("\n")
+test=open(path+'D5ex.txt').read().split("\n")
 IPT=IPTraw
 
 IPT=[elt for elt in IPT]
