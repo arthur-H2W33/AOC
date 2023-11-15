@@ -7,8 +7,8 @@ Created on Sat Dec  3 10:54:57 2022
 
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 
-IPTraw=open(path+'D4.txt').read().split("\n")
-test=open(path+'D4ex.txt').read().split("\n")
+IPTraw=open(path+'D04.txt').read().split("\n")
+test=open(path+'D04ex.txt').read().split("\n")
 IPT=IPTraw
 
 IPT=[elt.split(',') for elt in IPT]
