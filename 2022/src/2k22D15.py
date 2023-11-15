@@ -8,8 +8,8 @@ Created on Sat Dec  3 11:31:53 2022
 from timeit import default_timer as timer
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 
-IPTraw=open(path+'inputd15.txt').read().split("\n")
-test=open(path+'inputd15ex.txt').read().split("\n")
+IPTraw=open(path+'D15.txt').read().split("\n")
+test=open(path+'D15ex.txt').read().split("\n")
 IPT=IPTraw
 if IPT==test:
     objectif=complex(0,10)
