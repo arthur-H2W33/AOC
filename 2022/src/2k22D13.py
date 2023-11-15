@@ -8,8 +8,8 @@ Created on Sat Dec  3 11:31:54 2022
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 
 
-A_IPTraw=open(path+'inputd13.txt').read().split("\n")
-A_test=open(path+'inputd13ex.txt').read().split("\n")
+A_IPTraw=open(path+'D13.txt').read().split("\n")
+A_test=open(path+'D13ex.txt').read().split("\n")
 IPT=A_IPTraw
 IPT=[eval(elt) for elt in IPT if len(elt)!=0]
 listegauche=[]
