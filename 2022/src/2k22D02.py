@@ -7,7 +7,7 @@ Created on Thu Dec  1 08:39:44 2022
 
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 
-IPTraw=open(path+'D2.txt').read().split("\n")
+IPTraw=open(path+'D02.txt').read().split("\n")
 IPT=IPTraw
 
 
