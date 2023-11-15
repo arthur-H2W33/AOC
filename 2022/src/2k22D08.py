@@ -7,8 +7,8 @@ Created on Sat Dec  3 11:28:30 2022
 
 path="C:\\Users\\apot\\Desktop\\AdventOfCode\\2022\\inputs\\"
 
-IPTraw=open(path+'D8.txt').read().split("\n")
-test=open(path+'D8ex.txt').read().split("\n")
+IPTraw=open(path+'D08.txt').read().split("\n")
+test=open(path+'D08ex.txt').read().split("\n")
 IPT=IPTraw
 
 #reponse for test is 16 + 5 = 21
